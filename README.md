@@ -1,3 +1,3 @@
 # Cheats-Updater-neu
 
-forked from AIO-Switch-Updater by HamletDuFromage
+forked by Sandmann from AIO-Switch-Updater by HamletDuFromage
